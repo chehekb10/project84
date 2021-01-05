@@ -1,3 +1,4 @@
+<body onload="add"></body>
 canvas = document.getElementById('myCanvas');
 ctx = canvas.getContext("2d");
 
